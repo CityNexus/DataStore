@@ -25,4 +25,4 @@ An array with each element representing an different data element
     An all lowercase alphanumeric name for the data point which much be unique in the data set
     
     - type
-    Assigns the data storage type: `string` [default], `text`, `int`, `float`, `datetime`, `bool`
+    Assigns the data storage type: `string` [default], `text`, `integer`, `float`, `datetime`, `boolean`

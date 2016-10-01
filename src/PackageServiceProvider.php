@@ -29,6 +29,9 @@ class PackageServiceProvider extends ServiceProvider
 
         // Include Helpers
 
+        include_once __DIR__ . '/helpers/Helpers.php';
+        include_once __DIR__ . '/helpers/TableBuilder.php';
+
         // Include Models
 
         // Include jobs
