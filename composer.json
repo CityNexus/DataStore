@@ -1,0 +1,22 @@
+{
+    "name": "CityNexus/DataStore",
+    "description": "CityNexus data storage service",
+    "require": {
+        "php": ">=5.7",
+        "laravel/framework": "5.3",
+        "maatwebsite/excel": "~2.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CityNexus\\DataStore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sean Alaback",
+            "email": "sean@citynexus.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}
